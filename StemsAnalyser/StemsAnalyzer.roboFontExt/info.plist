@@ -6,28 +6,32 @@
 	<array>
 		<dict>
 			<key>path</key>
-			<string>StemsAnalyser.py</string>
+			<string>StemsAnalyzer.py</string>
 			<key>preferredName</key>
-			<string>StemsAnalyser</string>
+			<string>StemsAnalyzer</string>
 			<key>shortKey</key>
 			<string></string>
 		</dict>
 	</array>
 	<key>developer</key>
-	<string>Jeremie Hornus</string>
+	<string>Jérémie Hornus and Connor Davenport</string>
 	<key>developerURL</key>
-	<string></string>
+	<string>https://black-foundry.com https://connordavenport.com</string>
 	<key>html</key>
 	<false/>
 	<key>launchAtStartUp</key>
-	<integer>0</integer>
+	<false/>
 	<key>mainScript</key>
-	<string></string>
+	<string>StemsAnalyzer.py</string>
 	<key>name</key>
 	<string>StemsAnalyser</string>
+	<key>requiresVersionMajor</key>
+	<string>4</string>
+	<key>requiresVersionMinor</key>
+	<string>3</string>
 	<key>timeStamp</key>
-	<real>1421143668.8228281</real>
+	<real>1695419810.529206</real>
 	<key>version</key>
-	<string>1.0</string>
+	<string>1.1.0</string>
 </dict>
 </plist>
